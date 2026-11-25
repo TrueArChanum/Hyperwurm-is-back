@@ -57,9 +57,9 @@ And, yes\! ...the knight in armour is me.
 **Music and audio:**
 
 - nene * Boss Battle #2 (Symphonic Metal), Boss Battle #5 (8-bit), Leap (8-bit), Night of the Streets (Horror/Suspense)
-- Alexandr Zhelanov, Vitalezzz, Tausdei, nene — Heart of Machine
-- jkfite01 — Funeral March (8-bit), Victory\!
-- syncopika — happy tune
+- Alexandr Zhelanov, Vitalezzz, Tausdei, nene * Heart of Machine
+- jkfite01 * Funeral March (8-bit), Victory\!
+- syncopika * happy tune
 
 **Additional help:**
 
@@ -69,4 +69,4 @@ And, yes\! ...the knight in armour is me.
 
 Best regards,
 
-**ArChanum** 🐍
+**ArChanum** 🪱
