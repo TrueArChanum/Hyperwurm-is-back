@@ -8,7 +8,7 @@ Welcome to the official public information repository for **Hyperwurm is back\!*
 
 Hyperwurm is back\! puts you in control of the mighty, V12-powered Hyperwurm, capable of solving most challenges by itself thanks to its genius-level intellect combined with its "1-bit brain capacity".
 
-<img width="360" height="203" alt="image" src="https://github.com/user-attachments/assets/3e813f3b-87aa-486d-a25b-bba00d3f289a" />
+<img width="360" height="203" alt="Hyper" src="https://github.com/user-attachments/assets/f6fe8b4c-aba1-43d9-858a-c8e99d7876f6" />
 
 ## 🔗 Links
 
