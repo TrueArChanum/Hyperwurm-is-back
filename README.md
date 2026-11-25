@@ -1,4 +1,4 @@
-# 🐍 Hyperwurm is back\!
+<img width="1280" height="99" alt="Library_Logo" src="https://github.com/user-attachments/assets/2922f395-abcf-4432-b1c8-dc070c629909" />
 
 **My first indie game**
 
